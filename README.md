@@ -69,3 +69,4 @@ Next server is running here => [http://localhost:3000](http://localhost:3000)
 
 Enjoy this starter!
 # seotoweb
+# seotoweb
